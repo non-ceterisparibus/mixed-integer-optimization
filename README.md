@@ -1,2 +1,2 @@
 # mixed-integer-optimization
-the Cutting Stock Problem
+This model is an example of the cutting stock problem. The Cutting Stock Problem deals with the problem of cutting stock material with the same, fixed width — such as steel, paper rolls — into smaller pieces, according to a set of orders specifying both the widths and the weight demand requirements, so as to minimize the amount of wasted material. This problem is formulated as an integer programming problem using PuLP and solved with a decomposition technique called Delayed Column Generation using HiGHS solver
